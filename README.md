@@ -283,13 +283,6 @@ The report follows a consistent professional design across all three analytical 
 
 ---
 
-## Compensation
-
-<p align="center">
-  <img src="Compensation.png" width="900" alt="Compensation Dashboard">
-</p>
-
----
 
 ## 🚀 How to Open the Report
 
