@@ -256,7 +256,7 @@ The report follows a consistent professional design across all three analytical 
 ## Home Page
 
 <p align="center">
-  <img src="Home Page.png" width="900" alt="HR Workforce Analytics Home Page">
+  <img src="Home.jpeg" width="900" alt="HR Workforce Analytics Home Page">
 </p>
 
 ---
@@ -264,7 +264,7 @@ The report follows a consistent professional design across all three analytical 
 ## Workforce Overview
 
 <p align="center">
-  <img src="Workforce Overview.png" width="900" alt="Workforce Overview Dashboard">
+  <img src="Pic1.png" width="900" alt="Workforce Overview Dashboard">
 </p>
 
 ---
@@ -272,7 +272,13 @@ The report follows a consistent professional design across all three analytical 
 ## Attrition Analysis
 
 <p align="center">
-  <img src="Attrition Analysis.png" width="900" alt="Attrition Analysis Dashboard">
+  <img src="Pic2.png" width="900" alt="Attrition Analysis Dashboard">
+</p>
+
+## Compensation
+
+<p align="center">
+  <img src="Pic3.png" width="900" alt="Attrition Analysis Dashboard">
 </p>
 
 ---
